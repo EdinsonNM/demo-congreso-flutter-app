@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "693286840863",
+    "firebase_url": "https://congreso-spo.firebaseio.com",
+    "project_id": "congreso-spo",
+    "storage_bucket": "congreso-spo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693286840863:android:3caf4ebad641a497e2832a",
+        "android_client_info": {
+          "package_name": "com.punku.congreso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693286840863-a9f8ga9oi6jv2c74307s42ur2gu2iajp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.punku.congreso",
+            "certificate_hash": "be6dcaf1effbe2809469c1f1ed4199f624d1d6a9"
+          }
+        },
+        {
+          "client_id": "693286840863-euo7kq8ftipt0mkcvmtdc50ecrdndslo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZcfmy88ppCwrfNqRoJ9WyddUpdwEe0qY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693286840863-euo7kq8ftipt0mkcvmtdc50ecrdndslo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
